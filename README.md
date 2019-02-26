@@ -19,7 +19,7 @@ By definition, members work on their respective squad, although they are free to
 
 | Name                          | Squad             | Contact                                  |
 |-------------------------------|-------------------|------------------------------------------|
-| Sakis Kaliakoudas             | Android Lead                         | [GitHub](https://github.com/athkalia) <br> [Website](www.sakiskaliakoudas.com)|
+| Sakis Kaliakoudas             | Android Lead                         | [GitHub](https://github.com/athkalia) <br> [Website](http://www.sakiskaliakoudas.com)|
 | Agnieszka Pinchinat-Miernik   | Prescriptions                        | [GitHub](https://github.com/alpm)  
 | Antonis Tsipaliokas           | Consultation Experience              | [GitHub](https://github.com/kokeroulis) |
 | Balachandar Kolathur Mani     | Health Management                    | [GitHub](https://github.com/balachandarlinks) |
