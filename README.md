@@ -13,8 +13,10 @@ We want you to know us, what we're working on, and what we expect from you if yo
 ## Who are we and what are we currently working on?
 
 There are currently 16 of us in the Android team, but as an Android Engineer you'll be joining a smaller, 
-cross-functional squad made up of Android, iOS, web and backend engineers.  You'll get the chance to collaborate with designers, product managers and healthcare professionals, tackling complex, exciting problems on a daily basis. You can check who we are and which squads we're working on below.
-By definition, members work on their respective squad, although they are free to work in different squads if the work load justifies it.
+cross-functional squad made up of Android, iOS, web and backend engineers.  You'll get the chance to collaborate with designers, product managers and healthcare professionals, tackling complex, exciting problems on a daily basis. 
+
+You can check who we are and which squads we're working on below. By definition, members work on their respective squad, although they are free to work in different squads if the work load justifies it. 
+
 <br><br>
 
 | Name                          | Squad             | Contact                                  |
@@ -35,6 +37,9 @@ By definition, members work on their respective squad, although they are free to
 | Moj Abubakr                   | Native apps                          | [GitHub](https://github.com/MojRoid) |
 | Pedro Loureiro                | Babylon GP at Hand                       | [GitHub](https://github.com/pedroql) |
 | Tomas Navickas                | Healthcheck                          | [GitHub](https://github.com/iTomkinas) |
+
+
+We are now split into 2 offices, one in South Kensington (HQ) and another one in Liverpool Street. We have open positions in both locations, links in the end. The distribution between both offices is based on which tribe/squad you work on.
 
 We're passionate about our codebase and are always looking for innovative ways to build fast.  All our new code is written in Kotlin and we use an MVI architecture with Rx and Dagger to help us write high-quality, testable code. We currently have over 11,000 tests and counting!
 
@@ -119,5 +124,10 @@ looking for in a company. It's important that you have an active role in this di
 
 We try to maintain the structure order above, but it might be the case where we have to slightly change it due to availability of the participants. In each session you'll have the chance to ask questions as well, so take that opportunity to find out as much as you can about us and the way we work, we'll be happy to answer those questions.
 
-If you like what you read and want to apply you can do it [here](https://jobs.lever.co/babylonhealth/29884d44-ff18-41b8-ac38-4ad66a59f585) 
-and if you happen to know someone who might be interested in applying for a different position with us, please point them to our [careers page](https://www.babylonhealth.com/careers).
+If you like what you read and want to apply, we have a few positions open at the moment:
+- [Android Engineer - South Kensington](https://jobs.lever.co/babylonhealth/209f62ff-e849-4496-9064-b4271b5fe70f)
+- [Android Engineer (contract) - South Kensington](https://jobs.lever.co/babylonhealth/d513f699-bf72-4c03-aae7-e507a681e52a)
+- [Senior Android Engineer - South Kensington](https://jobs.lever.co/babylonhealth/29884d44-ff18-41b8-ac38-4ad66a59f585) 
+- [Senior Android Engineer - Liverpool Street](https://jobs.lever.co/babylonhealth/6ee9db78-6015-4c8e-a94a-131e52b581ef) 
+
+And if you happen to know someone who might be interested in applying for one of these or a different position with us, please point them to our [careers page](https://www.babylonhealth.com/careers).
