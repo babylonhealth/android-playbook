@@ -55,7 +55,7 @@ Additionally, we want to hire people who are reasonable, professional, and fun t
 
 We are continually improving how we work remotely as a company and aim to be as flexible as possible by equally accepting applications from candidates who want to work on-site at our office in London, or who want to work remotely.
 
-At Babylon we also believe in/champion diversity and welcome everyone from everywhere. Currently in the Android team you'll find people from Greece, Poland, UK, India, Spain, Portugal, France and Lithuania, can you add to it? 
+At Babylon we also believe in/champion diversity and welcome everyone from everywhere. Currently in the Android team you'll find people from Greece, Poland, UK, India, Spain, Portugal, France, Lithuania and Sudan, can you add to it? 
 
 #### What matters the most to us?
 
