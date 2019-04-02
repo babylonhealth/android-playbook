@@ -5,7 +5,7 @@ During the architecture interview you can get questions about Android architectu
 
 #### Kotlin:
 - What features do you like the most in Kotlin?
-- What is a data class? 
+- What is a data class?
 - How do you handle Java interoperability with data classes.
 - Sealed classes and its advantages
 - Nested class vs inner nested class
@@ -58,3 +58,4 @@ During the architecture interview you can get questions about Android architectu
 #### OTHERS:
 - Code obfuscation: Proguard and Dexguard
 - Manifest merger
+- What are the common ways to run long running jobs in Android?
