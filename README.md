@@ -96,7 +96,7 @@ and you're comfortable sharing it with us, please do and we'll evaluate that ins
 and still ask you for the code challenge, so try to send something relevant.
 
 ##### 3. Remote interview (Optional)
-For people that are not in London, we normally have a video interview before flying you in for the last stage below. This session
+For people that are not in London, we normally have 1 or 2 video interviews before flying you in for the last stage below. This session
 is a bit longer than the initial phone call and will involve some technical questions to assess you're the right candidate
 for the role. If you're applying for a remote position, this is a good session to discuss your experiences and usual workflow as a remote engineer.
 
