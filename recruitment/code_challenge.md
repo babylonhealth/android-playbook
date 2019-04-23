@@ -1,3 +1,8 @@
+<p align="center">
+<img src="../logo.png">
+</p>
+
+
 Babylon Android Tech Test
 ==================================
 
@@ -28,4 +33,3 @@ If you're short on time, you can either pick the route of implementing a simple 
 or go for a simple UI and focus more on the architecture of the application. Please let us know which one you prefer of the 2 options and why.
 
 We're not in a hurry, so if you prefer to take your time and deliver in both fronts we're more than happy to wait :)
-
