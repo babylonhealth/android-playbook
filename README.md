@@ -6,7 +6,7 @@
 Android Playbook 📚
 ==================================
 
-At Babylon, we firmly believe that **transparency** is a core value that should be present in everything we do. This playbook is here to serve as both a guide and reference for the current team, new joiners and for anyone else who want's to learn a little bit more about who are, what we do and how we work.
+At Babylon, we firmly believe that **transparency** is a core value that should be present in everything we do. This public playbook is here to serve as both a guide and reference for the current team, new joiners and for anyone else who want's to learn a little bit more about who are, what we do and how we work. This playbook will continiously be updated as we go, so be sure to check back often!
 
 ## Who are we and what are we currently working on?
 
