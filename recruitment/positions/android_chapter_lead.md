@@ -18,12 +18,11 @@ deal of time interacting with on a daily basis.
 We are continually improving how we work remotely as a company and aim 
 to be as flexible as possible by equally accepting applications from 
 candidates who want to work on-site at our office in London, or who 
-ant to work remotely.
+want to work remotely.
 
-At Babylon we also believe in/champion diversity and welcome everyone 
+At Babylon, we also believe in/champion diversity and welcome everyone 
 from everywhere. Currently in the Android team you'll find people from 
-Greece, Poland, UK, India, Spain, Portugal, France, Lithuania, Sudan, 
-Italy and Hungary, can you add to it?
+🇬🇷🇵🇱🇬🇧🇮🇳🇪🇸🇵🇹🇫🇷🇱🇹🇸🇩🇮🇹🇭🇺🇷🇺, can you add to it?
 
 #### You'd need to
 
@@ -70,14 +69,14 @@ happen in a half day on-site visit.
 Check our [interview stages page](../interview_stages) for a brief 
 description of each of the stages/sessions.
  
-1. Initial phone call
-2. Code challenge
-3. Team presentation
-4. Architecture + UI interview
-6. Programming exercise
-7. Product interview
-8. Cultural interview
-9. Final interview 
+1. [Initial phone call](../interview_stages.md#initial-phone-call)
+2. [Code challenge](../interview_stages.md#code-challenge)
+3. [Team presentation](../interview_stages.md#team-presentation)
+4. [Architecture + UI interview](../interview_stages.md#architecture-and-ui--interview)
+6. [Programming exercise](../interview_stages.md#programming-exercise)
+7. [Product interview](../interview_stages.md#product-interview)
+8. [Cultural interview](../interview_stages.md#cultural-interview)
+9. [Final interview](../interview_stages.md#final-interview) 
 
 We try to maintain the structure order above, but it might be the case 
 where we have to slightly change it due to availability of the participants. 

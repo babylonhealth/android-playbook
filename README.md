@@ -52,7 +52,6 @@ free to work in different squads if the work load justifies it.
 | Pedro Loureiro                | Babylon GP at Hand       | [GitHub](https://github.com/pedroql) |
 | Tomas Navickas                | Healthcheck              | [GitHub](https://github.com/iTomkinas) |
 
-
 We are now split into 2 offices, one in South Kensington (HQ) and 
 another one in Liverpool Street. We have open positions in both 
 locations, links in the end. The distribution between both offices is 
