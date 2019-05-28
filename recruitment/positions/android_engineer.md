@@ -65,7 +65,7 @@ off-site and from 3-7 depending if you're based around London or not,
 some of the sessions might happen remotely as well but they usually
 happen in a half day on-site visit. 
 
-Check our [interview stages page](../interview_stages) for a brief 
+Check our [interview stages page](../interview_stages.md) for a brief 
 description of each of the stages/sessions.
  
 1. [Initial phone call](../interview_stages.md#initial-phone-call)
