@@ -6,7 +6,9 @@
 Architecture Interview Questions
 ==================================
 
-During the architecture interview you can get questions about Android architecture, design patterns and common libraries used within Android development. Some examples below:
+During the architecture interview you can get questions about Android 
+architecture, design patterns and common libraries used within Android 
+development. Some examples below:
 
 #### Kotlin:
 - What features do you like the most in Kotlin?
@@ -29,11 +31,13 @@ During the architecture interview you can get questions about Android architectu
 
 #### Clean Architecture:
 - What is clean architecture and what is the benefit of it?  
-- Can you explain the different layers? Draw a diagram to explain the layers.
+- Can you explain the different layers? Draw a diagram to explain the 
+  layers.
 - What are the layers in clean architecture for android?
 - How do you handle the Android dependency for each layer?
 - SOLID principles
-- How can clean architecture be beneficial in adding a new service or replacing an existing service? (Eg: Moving from Google Maps to Mapbox)
+- How can clean architecture be beneficial in adding a new service or 
+  replacing an existing service? (Eg: Moving from Google Maps to Mapbox)
 
 #### Testing:
 - TDD. Do you use it or like it?
@@ -58,7 +62,8 @@ During the architecture interview you can get questions about Android architectu
 #### CI:
 - Are you familiar with Jenkins or other CI frameworks?
 - Explain your current CI setup, what do you run in CI
-- Why is CI important and which tasks you think should always run in your CI setup?
+- Why is CI important and which tasks you think should always run in 
+  your CI setup?
 
 #### OTHERS:
 - Code obfuscation: Proguard and Dexguard

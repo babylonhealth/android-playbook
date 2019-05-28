@@ -6,12 +6,14 @@
 UI Interview Questions
 ==================================
 
-During the UI interview you can get questions about Android UI and the Android framework components. Some examples below:
+During the UI interview you can get questions about Android UI and the 
+Android framework components. Some examples below:
 
 #### Views
 - Android components (view, custom views, fragments..)
 - Do you have experience with custom views?
-- Custom widgets using canvas? What are some common pitfalls in using canvas?
+- Custom widgets using canvas? What are some common pitfalls in 
+  using canvas?
 - Can you tell the difference between List and Recycler view?
 - Describe some of the important APIs around Recycler view
 - Do you know about Groupie? Can you explain how it works?
@@ -58,7 +60,8 @@ During the UI interview you can get questions about Android UI and the Android f
 - Layout efficiency
 
 #### General
-- How do you make sure that UI works seamlessly across all Android API versions? 
+- How do you make sure that UI works seamlessly across all Android 
+  API versions? 
 - What precautions do you take while developing new widgets?
 - Favourite app UI, why? How would you reproduce in your own apps?
 
