@@ -34,6 +34,9 @@ the posts authors.
   expect you to show that you know how to unit test your code.  
 - The tech test needs to compile from the command line so that we can 
   build it ourselves.
+- We love Kotlin. You are encouraged to complete coding challenge in
+  Kotlin and demonstrate your knowledge of the language. Solutions in
+  Java are also acceptable.
 
 If you're short on time, you can either pick the route of implementing 
 a simple architecture and focus more on the UI (animations, transitions
