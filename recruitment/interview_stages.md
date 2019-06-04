@@ -5,7 +5,7 @@
 Interview stages
 ==================================
 
-Depending on the [position](/positions/open-positions.md) you're applying to, our
+Depending on the [position](./positions/open_positions.md) you're applying to, our
 recruitment process involves a combination of different interview stages and
 sessions described below. Don't get scared with the huge list below :), 
 you can find the structure for your interview in the `Interview structure` 
