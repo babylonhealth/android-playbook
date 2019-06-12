@@ -9,6 +9,13 @@ UI Interview Questions
 During the UI interview you can get questions about Android UI and the 
 Android framework components. Some examples below:
 
+#### Warmup
+
+These warmup questions are meant to be quick and simple. The purpose is to let the candidate explain something they are familiar with to remove a bit of pressure.
+
+- In your current company or pet projects, What's the best piece of UI you have implemented recently? or you are most proud of?
+- Do you like to read about or try new UI components when they are released? 
+
 #### Views
 - Android components (view, custom views, fragments..)
 - Do you have experience with custom views?

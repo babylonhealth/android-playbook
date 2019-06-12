@@ -10,6 +10,13 @@ During the architecture interview you can get questions about Android
 architecture, design patterns and common libraries used within Android 
 development. Some examples below:
 
+#### Warmup
+
+These warmup questions are meant to be quick and simple. The purpose is to let the candidate explain something they are familiar with to remove a bit of pressure.
+
+- How big is the Android team you are part of? How do you find working with that many people on the same code base? 
+- If their team is a small team: Why would you like to work in a big team?
+
 #### Kotlin:
 - What features do you like the most in Kotlin?
 - What is a data class?
