@@ -52,6 +52,7 @@ free to work in different squads if the work load justifies it.
 | Pedro Loureiro                | Babylon GP at Hand       | [GitHub](https://github.com/pedroql) |
 | Tomas Navickas                | Healthcheck              | [GitHub](https://github.com/iTomkinas) |
 | Bogdan-Andrei Fotescu         | Monitor                  | [GitHub](https://github.com/rakatan) |
+| Luca Nicoletti                | Monitor                  | [GitHub](https://github.com/lnicolet) <br> [Medium](https://medium.com/@luca.nicolett) <br> [Twitter](https://twitter.com/luca_nicolett) |
 
 We are now split into 2 offices, one in South Kensington (HQ) and 
 another one in Liverpool Street. We have open positions in both 
