@@ -15,7 +15,7 @@ we go, so be sure to check back often!
 
 ## Who are we and what are we currently working on?
 
-There are currently 23 of us in the Android team, but as an Android 
+There are currently 24 of us in the Android team, but as an Android 
 Engineer you'll be joining a smaller, cross-functional squad made up of 
 Android, iOS, web and backend engineers.  You'll get the chance to 
 collaborate with designers, product managers and healthcare 
