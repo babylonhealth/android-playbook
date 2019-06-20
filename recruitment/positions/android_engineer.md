@@ -22,7 +22,7 @@ want to work remotely.
 
 At Babylon, we also believe in/champion diversity and welcome everyone 
 from everywhere. Currently in the Android team you'll find people from 
-🇬🇷🇵🇱🇬🇧🇮🇳🇪🇸🇵🇹🇫🇷🇱🇹🇸🇩🇮🇹🇭🇺🇷🇺, can you add to it?
+🇬🇷🇵🇱🇬🇧🇮🇳🇪🇸🇵🇹🇫🇷🇱🇹🇸🇩🇮🇹🇭🇺🇷🇺🇷🇴, can you add to it?
 
 #### What matters the most to us?
 
