@@ -15,7 +15,7 @@ we go, so be sure to check back often!
 
 ## Who are we and what are we currently working on?
 
-There are currently 24 of us in the Android team, but as an Android 
+There are currently 27 of us in the Android team, but as an Android 
 Engineer you'll be joining a smaller, cross-functional squad made up of 
 Android, iOS, web and backend engineers.  You'll get the chance to 
 collaborate with designers, product managers and healthcare 
@@ -53,6 +53,9 @@ free to work in different squads if the work load justifies it.
 | Tomas Navickas                | Healthcheck              | [GitHub](https://github.com/iTomkinas) |
 | Bogdan-Andrei Fotescu         | Monitor                  | [GitHub](https://github.com/rakatan) |
 | Luca Nicoletti                | Monitor                  | [GitHub](https://github.com/lnicolet) <br> [Medium](https://medium.com/@luca.nicolett) <br> [Twitter](https://twitter.com/luca_nicolett) |
+| Antonio Johnson                | USA                  | [GitHub](https://github.com/aj-65) |
+| Sean Gallagher                 | USA                  | [GitHub](https://github.com/seangallagherbabylon) |
+| Jayant Jere                    | USA                  | [GitHub](https://github.com/j-android) |
 
 We are now split into 2 offices, one in South Kensington (HQ) and 
 another one in Liverpool Street. We have open positions in both 
