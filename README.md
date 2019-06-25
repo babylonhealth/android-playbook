@@ -57,8 +57,7 @@ free to work in different squads if the work load justifies it.
 | Sean Gallagher                 | USA                  | [GitHub](https://github.com/seangallagherbabylon) |
 | Jayant Jere                    | USA                  | [GitHub](https://github.com/j-android) |
 
-We are now split into 2 offices, one in South Kensington (HQ) and 
-another one in Liverpool Street. We have open positions in both 
+We are now split into 3 offices, one in South Kensington (HQ), one in Liverpool Street, and one in Austin TX USA. We have open positions in both 
 locations, links in the end. The distribution between both offices is 
 based on which tribe/squad you work on.
 
