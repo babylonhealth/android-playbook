@@ -15,7 +15,7 @@ we go, so be sure to check back often!
 
 ## Who are we and what are we currently working on?
 
-There are currently 27 of us in the Android team, but as an Android 
+There are currently 28 of us in the Android team, but as an Android 
 Engineer you'll be joining a smaller, cross-functional squad made up of 
 Android, iOS, web and backend engineers.  You'll get the chance to 
 collaborate with designers, product managers and healthcare 
@@ -56,6 +56,7 @@ free to work in different squads if the work load justifies it.
 | Antonio Johnson                | USA                  | [GitHub](https://github.com/aj-65) |
 | Sean Gallagher                 | USA                  | [GitHub](https://github.com/seangallagherbabylon) |
 | Jayant Jere                    | USA                  | [GitHub](https://github.com/j-android) |
+| Manuel Rebollo Baez           | Physical Appointments    | [GitHub](https://github.com/mrebollob) |
 
 We are now split into 3 offices, one in South Kensington (HQ), one in Liverpool Street, and one in Austin TX USA. We have open positions in both 
 locations, links in the end. The distribution between both offices is 
