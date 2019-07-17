@@ -15,7 +15,7 @@ we go, so be sure to check back often!
 
 ## Who are we and what are we currently working on?
 
-There are currently 28 of us in the Android team, but as an Android 
+There are currently 29 of us in the Android team, but as an Android 
 Engineer you'll be joining a smaller, cross-functional squad made up of 
 Android, iOS, web and backend engineers.  You'll get the chance to 
 collaborate with designers, product managers and healthcare 
@@ -35,6 +35,7 @@ free to work in different squads if the work load justifies it.
 | Aldrich Mascarenhas           | Core Experience          | [GitHub](https://github.com/AldrichMascarenhas) |
 | Andrey Emelyanenko            | Chatbot                  | [GitHub](https://github.com/andrey-yem) |
 | Antonis Tsipaliokas           | Consultation Experience  | [GitHub](https://github.com/kokeroulis) |
+| Attila Blenesi                | Tests & Kits             | [GitHub](https://github.com/ablenesi) <br> [Twitter](https://twitter.com/ablenessy) <br> [Medium](https://medium.com/@attilablnesi)|
 | Balachandar Kolathur Mani     | Telus                    | [GitHub](https://github.com/balachandarlinks) |
 | Claudia Luque Fernandez       | Woman's Health           | [GitHub](https://github.com/claucookie) |
 | Enrique Ramirez               | Condition Management     | [GitHub](https://github.com/kikermo) |
