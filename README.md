@@ -44,7 +44,7 @@ free to work in different squads if the work load justifies it.
 | Gabor Peto                    | SDK                      | [GitHub](https://github.com/GaborPeto) |
 | Jack Miles                    | Chatbot                  | [GitHub](https://github.com/JEKMiles) |
 | Luis Muñoz                    | Healthcheck              | [GitHub](https://github.com/luismunyoz) |
-| Mark Allison                  | Condition Management     | [GitHub](https://github.com/StylingAndroid) <br> [Twitter](https://twitter.com/MarkIAllison) <br> [stylingandroid.com](https://blog.stylingandroid.com) <br> [ConstraintLayout.com](https://constraintlayout.com/) |
+| Mark Allison                  | Telus                    | [GitHub](https://github.com/StylingAndroid) <br> [Twitter](https://twitter.com/MarkIAllison) <br> [stylingandroid.com](https://blog.stylingandroid.com) <br> [ConstraintLayout.com](https://constraintlayout.com/) |
 | Matthew Dolan                 | Native Apps              | [GitHub](https://github.com/mattmook) <br> [Medium](https://medium.com/@appmattus) |
 | Maxime Mazzone                | Core Experience          | [GitHub](https://github.com/mazzonem) |
 | Mikolaj Leszczynski           | Native apps              | [GitHub](https://github.com/Rosomack) |
