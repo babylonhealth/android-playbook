@@ -57,6 +57,7 @@ free to work in different squads if the work load justifies it.
 | Sean Gallagher                 | USA                  | [GitHub](https://github.com/seangallagherbabylon) |
 | Jayant Jere                    | USA                  | [GitHub](https://github.com/j-android) |
 | Manuel Rebollo Baez           | Physical Appointments    | [GitHub](https://github.com/mrebollob) |
+| Karoly Somodi           | Condition Management    | [GitHub](https://github.com/kioba) <br> [Twitter](https://twitter.com/kiobaa) <br> [kioba.dev](https://kioba.dev)|
 
 We are now split into 3 offices, one in South Kensington (HQ), one in Liverpool Street, and one in Austin TX USA. We have open positions in both 
 locations, links in the end. The distribution between both offices is 
