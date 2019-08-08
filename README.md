@@ -26,6 +26,41 @@ different squads if the workload justifies it.
 
 <br>
 
+### Android guild
+
+Sakis Kaliakoudas | Android Lead | [GitHub](https://github.com/athkalia) | [Website](http://www.sakiskaliakoudas.com)
+
+
+#### Health management tribe
+
+Joao Alves | Android Chapter Lead | [GitHub](https://github.com/jcmsalves) | [Twitter](https://twitter.com/jcmsalves) | [Medium](https://medium.com/@jcmsalves)
+
+##### Condition management squad
+
+Enrique Ramirez | [GitHub](https://github.com/kikermo)  
+Karoly Somodi | [GitHub](https://github.com/kioba) | [Twitter](https://twitter.com/kiobaa) | [kioba.dev](https://kioba.dev)
+
+##### Monitor squad
+
+Eduardo dos Santos | [GitHub](https://github.com/ejms)  
+Bogdan-Andrei Fotescu | [GitHub](https://github.com/rakatan)  
+Luca Nicoletti | [GitHub](https://github.com/lnicolet) | [Medium](https://medium.com/@luca.nicolett) | [Twitter](https://twitter.com/luca_nicolett)
+
+##### Test Kits squad
+
+Attila Blenesi | [GitHub](https://github.com/ablenesi) | [Twitter](https://twitter.com/ablenessy) | [Medium](https://medium.com/@attilablnesi)
+
+#### Clinical care experience tribe
+
+Agnieszka Pinchinat-Miernik | Android Chapter Lead | [GitHub](https://github.com/alpm)
+
+##### Physical appointments squad
+
+Francesco Pontillo | [GitHub](https://github.com/frapontillo)  
+Manuel Rebollo Baez | [GitHub](https://github.com/mrebollob)
+
+
+
 | Name                          | Squad                    | Contact                                  |
 |-------------------------------|--------------------------|------------------------------------------|
 | Sakis Kaliakoudas             | Android Lead             | [GitHub](https://github.com/athkalia) <br> [Website](http://www.sakiskaliakoudas.com)|
