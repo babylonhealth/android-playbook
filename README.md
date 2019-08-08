@@ -51,7 +51,7 @@ Eduardo dos Santos | [GitHub](https://github.com/ejms)
 Bogdan-Andrei Fotescu | [GitHub](https://github.com/rakatan)  
 Luca Nicoletti | [GitHub](https://github.com/lnicolet) | [Medium](https://medium.com/@luca.nicolett) | [Twitter](https://twitter.com/luca_nicolett)
 
-##### Tests and kits squad
+##### Test kits squad
 
 *Managing everything related to Babylon do-at-home tests (blood, urine, etc...)*
 
