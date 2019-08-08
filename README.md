@@ -57,9 +57,9 @@ Attila Blenesi | [GitHub](https://github.com/ablenesi) | [Twitter](https://twitt
 
 ---
 
-#### Health check tribe
+#### Healthcheck tribe
 
-*Work on our Digital Avatar*
+*Work on our digital avatar*
 
 Luis Muñoz | [GitHub](https://github.com/luismunyoz)  
 Tomas Navickas | [GitHub](https://github.com/iTomkinas)
