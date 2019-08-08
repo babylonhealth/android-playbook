@@ -37,12 +37,14 @@ Sakis Kaliakoudas | [GitHub](https://github.com/athkalia) | [Website](http://www
 Joao Alves | [GitHub](https://github.com/jcmsalves) | [Twitter](https://twitter.com/jcmsalves) | [Medium](https://medium.com/@jcmsalves)
 
 ##### Condition management squad
+
 *Managing long term conditions like diabetes etc*
 
 Enrique Ramirez | [GitHub](https://github.com/kikermo)  
 Karoly Somodi | [GitHub](https://github.com/kioba) | [Twitter](https://twitter.com/kiobaa) | [kioba.dev](https://kioba.dev)
 
 ##### Monitor squad
+
 *Wearables syncing and dashboard for wearable data and blood test data*
 
 Eduardo dos Santos | [GitHub](https://github.com/ejms)  
