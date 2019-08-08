@@ -29,7 +29,6 @@ different squads if the workload justifies it.
 *Android Lead*  
 Sakis Kaliakoudas | [GitHub](https://github.com/athkalia) | [Website](http://www.sakiskaliakoudas.com)
 
-
 #### Health management tribe
 
 *Android Chapter Lead*  
@@ -80,20 +79,20 @@ Antonis Tsipaliokas | [GitHub](https://github.com/kokeroulis)
 
 ##### Chatbot squad
 
-Jack Miles | [GitHub](https://github.com/JEKMiles)
+Jack Miles | [GitHub](https://github.com/JEKMiles)  
 Andrey Emelyanenko | [GitHub](https://github.com/andrey-yem)
 
 #### Consumer experience tribe
 
 ##### Core experience squad
 
-Maxime Mazzone | [GitHub](https://github.com/mazzonem)
+Maxime Mazzone | [GitHub](https://github.com/mazzonem)  
 Aldrich Mascarenhas | [GitHub](https://github.com/AldrichMascarenhas)
 
 ##### Native apps platform squad
 
-Matthew Dolan | [GitHub](https://github.com/mattmook) | [Medium](https://medium.com/@appmattus)
-Mikolaj Leszczynski | [GitHub](https://github.com/Rosomack)
+Matthew Dolan | [GitHub](https://github.com/mattmook) | [Medium](https://medium.com/@appmattus)  
+Mikolaj Leszczynski | [GitHub](https://github.com/Rosomack)  
 Moj Abubakr | [GitHub](https://github.com/MojRoid)
 
 ##### SDK squad
@@ -102,13 +101,13 @@ Gabor Peto | [GitHub](https://github.com/GaborPeto)
 
 #### USA tribe
 
-Antonio Johnson | [GitHub](https://github.com/aj-65)
-Sean Gallagher | [GitHub](https://github.com/seangallagherbabylon)
+Antonio Johnson | [GitHub](https://github.com/aj-65)  
+Sean Gallagher | [GitHub](https://github.com/seangallagherbabylon)  
 Jayant Jere | [GitHub](https://github.com/j-android)
 
 #### Telus tribe
 
-Balachandar Kolathur Mani | [GitHub](https://github.com/balachandarlinks)
+Balachandar Kolathur Mani | [GitHub](https://github.com/balachandarlinks)  
 Mark Allison | [GitHub](https://github.com/StylingAndroid) | [Twitter](https://twitter.com/MarkIAllison) | [stylingandroid.com](https://blog.stylingandroid.com) | [ConstraintLayout.com](https://constraintlayout.com/)
 
 #### Babylon GP at Hand tribe
