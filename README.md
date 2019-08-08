@@ -26,7 +26,8 @@ different squads if the workload justifies it.
 
 ### Android guild
 
-Sakis Kaliakoudas | Android Lead | [GitHub](https://github.com/athkalia) | [Website](http://www.sakiskaliakoudas.com)
+*Android Lead*  
+Sakis Kaliakoudas | [GitHub](https://github.com/athkalia) | [Website](http://www.sakiskaliakoudas.com)
 
 
 #### Health management tribe
