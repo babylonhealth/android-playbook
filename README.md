@@ -68,8 +68,9 @@ Rx and Dagger to help us write high-quality, testable code. We currently have
 over 20,000 tests and counting!
 
 We embrace open source and are committed to releasing what we can to benefit the
-community. For example, we recently launched certificate-transparency-android to
-help everyone better secure SSL connections.
+community. For example, we recently launched
+[certificate-transparency-android](https://github.com/Babylonpartners/certificate-transparency-android/)
+to help everyone better secure SSL connections.
 
 As a team, we love to learn and often participate in Lunch and Learn sessions
 with other Android developers and the wider tech community. For example, we've
