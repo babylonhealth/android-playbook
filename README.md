@@ -6,24 +6,23 @@
 Android Playbook 📚
 ==================================
 
-At Babylon, we firmly believe that **transparency** is a core value that 
-should be present in everything we do. This public playbook is here to 
-serve as both a guide and reference for the current team, new joiners 
-and for anyone else who want's to learn a little bit more about who are, 
-what we do and how we work. This playbook will continuously be updated as
-we go, so be sure to check back often!
+At Babylon, we firmly believe that **transparency** is a core value that should
+be present in everything we do. This playbook serves as a guide and reference
+for anyone wanting to learn more about who we are, what we do, and how we work.
+This playbook will continuously be updated as we go, so be sure to check back
+often!
 
-## Who are we and what are we currently working on?
+## Who are we and what are we working on?
 
-There are currently 29 of us in the Android team, but as an Android 
-Engineer you'll be joining a smaller, cross-functional squad made up of 
-Android, iOS, web and backend engineers.  You'll get the chance to 
-collaborate with designers, product managers and healthcare 
-professionals, tackling complex, exciting problems on a daily basis. 
+There are currently 29 of us in the Android guild. As an Android Engineer,
+you'll be joining a smaller, cross-functional squad made up of Android, iOS,
+web and backend engineers. You'll get the chance to collaborate with designers,
+product managers and healthcare professionals, tackling complex, exciting
+problems daily.
 
-You can check who we are and which squads we're working on below. By 
-definition, members work on their respective squad, although they are 
-free to work in different squads if the work load justifies it. 
+You can check who we are and which squads we're working on below. By definition,
+members work on their respective squad, although they are free to work in
+different squads if the workload justifies it.
 
 <br>
 
@@ -59,19 +58,22 @@ free to work in different squads if the work load justifies it.
 | Manuel Rebollo Baez           | Physical Appointments    | [GitHub](https://github.com/mrebollob) |
 | Karoly Somodi           | Condition Management    | [GitHub](https://github.com/kioba) <br> [Twitter](https://twitter.com/kiobaa) <br> [kioba.dev](https://kioba.dev)|
 
-We are now split into 3 offices, one in South Kensington (HQ), one in Liverpool Street, and one in Austin TX USA. We have open positions in both 
-locations, links in the end. The distribution between both offices is 
-based on which tribe/squad you work on.
+We work across 3 offices, South Kensington (HQ), Liverpool Street, and
+Austin TX USA as well as many remote engineers. Your tribe/squad determines your
+office location. We have open positions across our offices, links at the end.
 
-We're passionate about our codebase and are always looking for 
-innovative ways to build fast.  All our new code is written in 
-Kotlin and we use an MVI architecture with Rx and Dagger to help us 
-write high-quality, testable code. We currently have over 20,000 
-tests and counting!
+We're passionate about our codebase and are always looking for innovative ways
+to build fast. All our new code is in Kotlin and we use an MVI architecture with
+Rx and Dagger to help us write high-quality, testable code. We currently have
+over 20,000 tests and counting!
 
-As a team, we love to learn and often participate in Lunch and Learn 
-sessions with other Android developers and the wider tech community. 
-For example we've given talks at Droidcon London and Londroid.
+We embrace open source and are committed to releasing what we can to benefit the
+community. For example, we recently launched certificate-transparency-android to
+help everyone better secure SSL connections.
+
+As a team, we love to learn and often participate in Lunch and Learn sessions
+with other Android developers and the wider tech community. For example, we've
+given talks at droidcon London, droidcon Berlin and Londroid.
 
 ## Find out more about...
 
