@@ -41,7 +41,7 @@ Joao Alves | [GitHub](https://github.com/jcmsalves) | [Twitter](https://twitter.
 *Managing long term conditions like diabetes etc*
 
 Enrique Ramirez | [GitHub](https://github.com/kikermo)  
-Karoly Somodi | [GitHub](https://github.com/kioba) | [Twitter](https://twitter.com/kiobaa) | [kioba.dev](https://kioba.dev)
+Kioba Somodi | [GitHub](https://github.com/kioba) | [Twitter](https://twitter.com/kiobaa) | [kioba.dev](https://kioba.dev)
 
 ##### Monitor squad
 
