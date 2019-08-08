@@ -27,35 +27,35 @@ different squads if the workload justifies it.
 ### Android guild
 
 *Android Lead*  
-Sakis Kaliakoudas | [GitHub](https://github.com/athkalia) | [Website](http://www.sakiskaliakoudas.com)
+Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http://www.sakiskaliakoudas.com)
 
 ---
 
 #### Health management tribe
 
 *Android Chapter Lead*  
-Joao Alves | [GitHub](https://github.com/jcmsalves) | [Twitter](https://twitter.com/jcmsalves) | [Medium](https://medium.com/@jcmsalves)
+Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
 
 ##### Condition management squad
 
 *Managing long term conditions like diabetes etc*
 
-Enrique Ramirez | [GitHub](https://github.com/kikermo)  
-Kioba Somodi | [GitHub](https://github.com/kioba) | [Twitter](https://twitter.com/kiobaa) | [kioba.dev](https://kioba.dev)
+Enrique Ramirez • [GitHub](https://github.com/kikermo)  
+Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)
 
 ##### Monitor squad
 
 *Wearables syncing and dashboard for wearable data and blood test data*
 
-Eduardo dos Santos | [GitHub](https://github.com/ejms)  
-Bogdan-Andrei Fotescu | [GitHub](https://github.com/rakatan)  
-Luca Nicoletti | [GitHub](https://github.com/lnicolet) | [Medium](https://medium.com/@luca.nicolett) | [Twitter](https://twitter.com/luca_nicolett)
+Eduardo dos Santos • [GitHub](https://github.com/ejms)  
+Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
+Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)
 
 ##### Test kits squad
 
 *Managing everything related to Babylon do-at-home tests (blood, urine, etc...)*
 
-Attila Blenesi | [GitHub](https://github.com/ablenesi) | [Twitter](https://twitter.com/ablenessy) | [Medium](https://medium.com/@attilablnesi)
+Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://twitter.com/ablenessy) • [Medium](https://medium.com/@attilablnesi)
 
 ---
 
@@ -63,36 +63,36 @@ Attila Blenesi | [GitHub](https://github.com/ablenesi) | [Twitter](https://twitt
 
 *Work on our digital avatar*
 
-Luis Muñoz | [GitHub](https://github.com/luismunyoz)  
-Tomas Navickas | [GitHub](https://github.com/iTomkinas)
+Luis Muñoz • [GitHub](https://github.com/luismunyoz)  
+Tomas Navickas • [GitHub](https://github.com/iTomkinas)
 
 ---
 
 #### Clinical care experience tribe
 
 *Android Chapter Lead*  
-Agnieszka Pinchinat-Miernik | [GitHub](https://github.com/alpm)
+Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)
 
 ##### Prescriptions squad
 
 *Provide prescriptions functionality*
 
-Claudia Luque Fernandez | [GitHub](https://github.com/claucookie)
+Claudia Luque Fernandez • [GitHub](https://github.com/claucookie)
 
 ##### Bookings squad
 
 *Allow the users to book face to face appointments*
 
-Francesco Pontillo | [GitHub](https://github.com/frapontillo)  
-Manuel Rebollo Baez | [GitHub](https://github.com/mrebollob)
+Francesco Pontillo • [GitHub](https://github.com/frapontillo)  
+Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
 ##### Consultation experience squad
 
 *Improving flows related to a consultation like the prescriptions, video
 calling etc.*
 
-Antonis Tsipaliokas | [GitHub](https://github.com/kokeroulis)  
-Daniel Sobczak | [GitHub](https://github.com/DanielSobczak)  
+Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
+Daniel Sobczak • [GitHub](https://github.com/DanielSobczak)  
 
 ---
 
@@ -100,9 +100,9 @@ Daniel Sobczak | [GitHub](https://github.com/DanielSobczak)
 
 *Anything to do with our chatbot*
 
-Jack Miles | [GitHub](https://github.com/JEKMiles)  
-Andrey Emelyanenko | [GitHub](https://github.com/andrey-yem)  
-Kuba Szymion | [GitHub](https://github.com/kubaBabylon)
+Jack Miles • [GitHub](https://github.com/JEKMiles)  
+Andrey Emelyanenko • [GitHub](https://github.com/andrey-yem)  
+Kuba Szymion • [GitHub](https://github.com/kubaBabylon)
 
 ---
 
@@ -112,24 +112,24 @@ Kuba Szymion | [GitHub](https://github.com/kubaBabylon)
 
 *Broad scope around improving the user experience in the app*
 
-Maxime Mazzone | [GitHub](https://github.com/mazzonem)  
-Aldrich Mascarenhas | [GitHub](https://github.com/AldrichMascarenhas)
+Maxime Mazzone • [GitHub](https://github.com/mazzonem)  
+Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
 
 ##### Native apps platform squad
 
 *Doing work on the whole app, and anything that doesn’t sit in other squads.
 Also includes big engineering work*
 
-Matthew Dolan | [GitHub](https://github.com/mattmook) | [Medium](https://medium.com/@appmattus)  
-Mikolaj Leszczynski | [GitHub](https://github.com/Rosomack)  
-Moj Abubakr | [GitHub](https://github.com/MojRoid)  
-Peter Slesarew | [GitHub](https://github.com/sliskiCode)  
+Matthew Dolan • [GitHub](https://github.com/mattmook) • [Medium](https://medium.com/@appmattus)  
+Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack)  
+Moj Abubakr • [GitHub](https://github.com/MojRoid)  
+Peter Slesarew • [GitHub](https://github.com/sliskiCode)  
 
 ##### SDK squad
 
 *Anything to do with our SDKs*
 
-Gabor Peto | [GitHub](https://github.com/GaborPeto)
+Gabor Peto • [GitHub](https://github.com/GaborPeto)
 
 ---
 
@@ -137,9 +137,9 @@ Gabor Peto | [GitHub](https://github.com/GaborPeto)
 
 *Working on our US app*
 
-Antonio Johnson | [GitHub](https://github.com/aj-65)  
-Sean Gallagher | [GitHub](https://github.com/seangallagherbabylon)  
-Jayant Jere | [GitHub](https://github.com/j-android)
+Antonio Johnson • [GitHub](https://github.com/aj-65)  
+Sean Gallagher • [GitHub](https://github.com/seangallagherbabylon)  
+Jayant Jere • [GitHub](https://github.com/j-android)
 
 ---
 
@@ -147,8 +147,8 @@ Jayant Jere | [GitHub](https://github.com/j-android)
 
 *Working on our Canada whitelabel application*
 
-Balachandar Kolathur Mani | [GitHub](https://github.com/balachandarlinks)  
-Mark Allison | [GitHub](https://github.com/StylingAndroid) | [Twitter](https://twitter.com/MarkIAllison) | [stylingandroid.com](https://blog.stylingandroid.com) | [ConstraintLayout.com](https://constraintlayout.com/)
+Balachandar Kolathur Mani • [GitHub](https://github.com/balachandarlinks)  
+Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
 
 ---
 
@@ -157,7 +157,7 @@ Mark Allison | [GitHub](https://github.com/StylingAndroid) | [Twitter](https://t
 *Anything to do with the NHS GP flows, which allow someone to get our services
 for free, by making Babylon their NHS GP*
 
-Pedro Loureiro | [GitHub](https://github.com/pedroql)
+Pedro Loureiro • [GitHub](https://github.com/pedroql)
 
 ---
 
