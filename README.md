@@ -24,8 +24,6 @@ You can check who we are and which squads we're working on below. By definition,
 members work on their respective squad, although they are free to work in
 different squads if the workload justifies it.
 
-<br>
-
 ### Android guild
 
 Sakis Kaliakoudas | Android Lead | [GitHub](https://github.com/athkalia) | [Website](http://www.sakiskaliakoudas.com)
@@ -33,7 +31,8 @@ Sakis Kaliakoudas | Android Lead | [GitHub](https://github.com/athkalia) | [Webs
 
 #### Health management tribe
 
-Joao Alves | Android Chapter Lead | [GitHub](https://github.com/jcmsalves) | [Twitter](https://twitter.com/jcmsalves) | [Medium](https://medium.com/@jcmsalves)
+*Android Chapter Lead*  
+Joao Alves | [GitHub](https://github.com/jcmsalves) | [Twitter](https://twitter.com/jcmsalves) | [Medium](https://medium.com/@jcmsalves)
 
 ##### Condition management squad
 
@@ -50,48 +49,72 @@ Luca Nicoletti | [GitHub](https://github.com/lnicolet) | [Medium](https://medium
 
 Attila Blenesi | [GitHub](https://github.com/ablenesi) | [Twitter](https://twitter.com/ablenessy) | [Medium](https://medium.com/@attilablnesi)
 
+#### Health check tribe
+
+##### Health check squad
+
+Luis Muñoz | [GitHub](https://github.com/luismunyoz)  
+Tomas Navickas | [GitHub](https://github.com/iTomkinas)
+
 #### Clinical care experience tribe
 
-Agnieszka Pinchinat-Miernik | Android Chapter Lead | [GitHub](https://github.com/alpm)
+*Android Chapter Lead*  
+Agnieszka Pinchinat-Miernik | [GitHub](https://github.com/alpm)
+
+##### Prescriptions squad
+
+Claudia Luque Fernandez | [GitHub](https://github.com/claucookie)
 
 ##### Physical appointments squad
 
 Francesco Pontillo | [GitHub](https://github.com/frapontillo)  
 Manuel Rebollo Baez | [GitHub](https://github.com/mrebollob)
 
+##### Consultation experience squad
+
+Antonis Tsipaliokas | [GitHub](https://github.com/kokeroulis)
 
 
-| Name                          | Squad                    | Contact                                  |
-|-------------------------------|--------------------------|------------------------------------------|
-| Sakis Kaliakoudas             | Android Lead             | [GitHub](https://github.com/athkalia) <br> [Website](http://www.sakiskaliakoudas.com)|
-| Joao Alves                    | Android Chapter Lead     | [GitHub](https://github.com/jcmsalves)  <br> [Twitter](https://twitter.com/jcmsalves) <br> [Medium](https://medium.com/@jcmsalves) |
-| Agnieszka Pinchinat-Miernik   | Prescriptions            | [GitHub](https://github.com/alpm)  
-| Aldrich Mascarenhas           | Core Experience          | [GitHub](https://github.com/AldrichMascarenhas) |
-| Andrey Emelyanenko            | Chatbot                  | [GitHub](https://github.com/andrey-yem) |
-| Antonis Tsipaliokas           | Consultation Experience  | [GitHub](https://github.com/kokeroulis) |
-| Attila Blenesi                | Tests & Kits             | [GitHub](https://github.com/ablenesi) <br> [Twitter](https://twitter.com/ablenessy) <br> [Medium](https://medium.com/@attilablnesi)|
-| Balachandar Kolathur Mani     | Telus                    | [GitHub](https://github.com/balachandarlinks) |
-| Claudia Luque Fernandez       | Woman's Health           | [GitHub](https://github.com/claucookie) |
-| Enrique Ramirez               | Condition Management     | [GitHub](https://github.com/kikermo) |
-| Eduardo dos Santos            | Monitor                  | [GitHub](https://github.com/ejms) |
-| Francesco Pontillo            | Physical Appointments    | [GitHub](https://github.com/frapontillo) |
-| Gabor Peto                    | SDK                      | [GitHub](https://github.com/GaborPeto) |
-| Jack Miles                    | Chatbot                  | [GitHub](https://github.com/JEKMiles) |
-| Luis Muñoz                    | Healthcheck              | [GitHub](https://github.com/luismunyoz) |
-| Mark Allison                  | Telus                    | [GitHub](https://github.com/StylingAndroid) <br> [Twitter](https://twitter.com/MarkIAllison) <br> [stylingandroid.com](https://blog.stylingandroid.com) <br> [ConstraintLayout.com](https://constraintlayout.com/) |
-| Matthew Dolan                 | Native Apps              | [GitHub](https://github.com/mattmook) <br> [Medium](https://medium.com/@appmattus) |
-| Maxime Mazzone                | Core Experience          | [GitHub](https://github.com/mazzonem) |
-| Mikolaj Leszczynski           | Native apps              | [GitHub](https://github.com/Rosomack) |
-| Moj Abubakr                   | Native apps              | [GitHub](https://github.com/MojRoid) |
-| Pedro Loureiro                | Babylon GP at Hand       | [GitHub](https://github.com/pedroql) |
-| Tomas Navickas                | Healthcheck              | [GitHub](https://github.com/iTomkinas) |
-| Bogdan-Andrei Fotescu         | Monitor                  | [GitHub](https://github.com/rakatan) |
-| Luca Nicoletti                | Monitor                  | [GitHub](https://github.com/lnicolet) <br> [Medium](https://medium.com/@luca.nicolett) <br> [Twitter](https://twitter.com/luca_nicolett) |
-| Antonio Johnson                | USA                  | [GitHub](https://github.com/aj-65) |
-| Sean Gallagher                 | USA                  | [GitHub](https://github.com/seangallagherbabylon) |
-| Jayant Jere                    | USA                  | [GitHub](https://github.com/j-android) |
-| Manuel Rebollo Baez           | Physical Appointments    | [GitHub](https://github.com/mrebollob) |
-| Karoly Somodi           | Condition Management    | [GitHub](https://github.com/kioba) <br> [Twitter](https://twitter.com/kiobaa) <br> [kioba.dev](https://kioba.dev)|
+#### Triage tribe
+
+##### Chatbot squad
+
+Jack Miles | [GitHub](https://github.com/JEKMiles)
+Andrey Emelyanenko | [GitHub](https://github.com/andrey-yem)
+
+#### Consumer experience tribe
+
+##### Core experience squad
+
+Maxime Mazzone | [GitHub](https://github.com/mazzonem)
+Aldrich Mascarenhas | [GitHub](https://github.com/AldrichMascarenhas)
+
+##### Native apps platform squad
+
+Matthew Dolan | [GitHub](https://github.com/mattmook) | [Medium](https://medium.com/@appmattus)
+Mikolaj Leszczynski | [GitHub](https://github.com/Rosomack)
+Moj Abubakr | [GitHub](https://github.com/MojRoid)
+
+##### SDK squad
+
+Gabor Peto | [GitHub](https://github.com/GaborPeto)
+
+#### USA tribe
+
+Antonio Johnson | [GitHub](https://github.com/aj-65)
+Sean Gallagher | [GitHub](https://github.com/seangallagherbabylon)
+Jayant Jere | [GitHub](https://github.com/j-android)
+
+#### Telus tribe
+
+Balachandar Kolathur Mani | [GitHub](https://github.com/balachandarlinks)
+Mark Allison | [GitHub](https://github.com/StylingAndroid) | [Twitter](https://twitter.com/MarkIAllison) | [stylingandroid.com](https://blog.stylingandroid.com) | [ConstraintLayout.com](https://constraintlayout.com/)
+
+#### Babylon GP at Hand tribe
+
+Pedro Loureiro | [GitHub](https://github.com/pedroql)
+
+## How we work
 
 We work across 3 offices, South Kensington (HQ), Liverpool Street, and
 Austin TX USA as well as many remote engineers. Your tribe/squad determines your
