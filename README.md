@@ -147,7 +147,6 @@ Jayant Jere • [GitHub](https://github.com/j-android)
 
 *Working on our Canada whitelabel application*
 
-Balachandar Kolathur Mani • [GitHub](https://github.com/balachandarlinks)  
 Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
 
 ---
