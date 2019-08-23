@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 29 of us in the Android guild. As an Android Engineer,
+There are currently 30 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -122,8 +122,8 @@ Also includes big engineering work*
 
 Matthew Dolan • [GitHub](https://github.com/mattmook) • [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack)  
-Moj Abubakr • [GitHub](https://github.com/MojRoid)  
 Peter Slesarew • [GitHub](https://github.com/sliskiCode)  
+Sergei Chelombitko • [GitHub](https://github.com/technoir42)  
 
 ##### SDK squad
 
@@ -147,7 +147,6 @@ Jayant Jere • [GitHub](https://github.com/j-android)
 
 *Working on our Canada whitelabel application*
 
-Balachandar Kolathur Mani • [GitHub](https://github.com/balachandarlinks)  
 Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
 
 ---
