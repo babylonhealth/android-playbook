@@ -42,8 +42,8 @@ Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twit
 
 Eduardo dos Santos • [GitHub](https://github.com/ejms)  
 Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
-Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)
-Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)
+Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)   
+Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
 
 ##### Test kits squad
 
@@ -94,10 +94,10 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak)
 
 *Anything to do with our chatbot*
 
-Jack Miles • [GitHub](https://github.com/JEKMiles)  
+Jack Miles • [GitHub](https://github.com/JEKMiles) 
 Andrey Emelyanenko • [GitHub](https://github.com/andrey-yem)  
-Kuba Szymion • [GitHub](https://github.com/kubaBabylon)
-Tomas Navickas • [GitHub](https://github.com/iTomkinas)
+Kuba Szymion • [GitHub](https://github.com/kubaBabylon)   
+Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 
 ---
 
