@@ -36,13 +36,6 @@ Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http:/
 *Android Chapter Lead*  
 Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
 
-##### Condition management squad
-
-*Managing long term conditions like diabetes etc*
-
-Enrique Ramirez • [GitHub](https://github.com/kikermo)  
-Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)
-
 ##### Monitor squad
 
 *Wearables syncing and dashboard for wearable data and blood test data*
@@ -50,6 +43,7 @@ Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitte
 Eduardo dos Santos • [GitHub](https://github.com/ejms)  
 Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
 Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)
+Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)
 
 ##### Test kits squad
 
@@ -64,7 +58,7 @@ Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://t
 *Work on our digital avatar*
 
 Luis Muñoz • [GitHub](https://github.com/luismunyoz)  
-Tomas Navickas • [GitHub](https://github.com/iTomkinas)
+Enrique Ramirez • [GitHub](https://github.com/kikermo)  
 
 ---
 
@@ -103,6 +97,7 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak)
 Jack Miles • [GitHub](https://github.com/JEKMiles)  
 Andrey Emelyanenko • [GitHub](https://github.com/andrey-yem)  
 Kuba Szymion • [GitHub](https://github.com/kubaBabylon)
+Tomas Navickas • [GitHub](https://github.com/iTomkinas)
 
 ---
 
@@ -167,6 +162,13 @@ Pedro Loureiro • [GitHub](https://github.com/pedroql)
 *Moving our app authentication into oAuth2*
 
 Leszek Mzyk • [GitHub](https://github.com/imbryk)
+
+##### Member comms squad
+
+*Anything related with member communications, e.g. push notification,
+marketing messaging, app inbox*
+
+Joao Alves (as contributor) • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
 
 ---
 
