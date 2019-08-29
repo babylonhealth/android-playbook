@@ -160,6 +160,16 @@ Pedro Loureiro • [GitHub](https://github.com/pedroql)
 
 ---
 
+#### Platform Foundation tribe
+
+##### Identity squad
+
+*Moving our app authentication into oAuth2*
+
+Leszek Mzyk • [GitHub](https://github.com/imbryk)
+
+---
+
 We work across 3 offices, South Kensington (HQ), Liverpool Street, and
 Austin TX USA as well as many remote engineers. Your tribe/squad determines your
 office location. We have open positions across our offices, links at the end.
