@@ -95,7 +95,7 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak)
 
 *Anything to do with our chatbot*
 
-Jack Miles • [GitHub](https://github.com/JEKMiles) 
+Willow Miles • [GitHub](https://github.com/JEKMiles) 
 Andrey Emelyanenko • [GitHub](https://github.com/andrey-yem)  
 Kuba Szymion • [GitHub](https://github.com/kubaBabylon)   
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
