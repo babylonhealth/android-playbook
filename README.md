@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 31 of us in the Android guild. As an Android Engineer,
+There are currently 32 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -95,7 +95,7 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak)
 
 *Anything to do with our chatbot*
 
-Willow Miles • [GitHub](https://github.com/JEKMiles) 
+Willow Miles • [GitHub](https://github.com/JEKMiles)   
 Kuba Szymion • [GitHub](https://github.com/kubaBabylon)   
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 
