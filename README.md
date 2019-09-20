@@ -31,7 +31,7 @@ Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http:/
 
 ---
 
-#### Health management tribe
+#### Health management tribe (Liverpool Street)
 
 *Android Chapter Lead*  
 Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
@@ -55,16 +55,16 @@ Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://t
 
 ---
 
-#### Healthcheck tribe
+#### Healthcheck tribe (Liverpool Street)
 
 *Work on our digital avatar*
 
-Luis Muñoz • [GitHub](https://github.com/luismunyoz)  
+Luis Muñoz • [GitHub](https://github.com/luismunyoz) (remote)  
 Enrique Ramirez • [GitHub](https://github.com/kikermo)  
 
 ---
 
-#### Clinical care experience tribe
+#### Clinical care experience tribe (South Kensington)
 
 *Android Chapter Lead*  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)
@@ -79,7 +79,7 @@ Claudia Luque Fernandez • [GitHub](https://github.com/claucookie)
 
 *Allow the users to book face to face appointments*
 
-Francesco Pontillo • [GitHub](https://github.com/frapontillo)  
+Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
 Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
 ##### Consultation experience squad
@@ -88,27 +88,27 @@ Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 calling etc.*
 
 Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
-Daniel Sobczak • [GitHub](https://github.com/DanielSobczak)  
+Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)  
 
 ---
 
-#### Triage tribe
+#### Triage tribe (South Kensington)
 
 *Anything to do with our chatbot*
 
 Willow Miles • [GitHub](https://github.com/JEKMiles)   
-Kuba Szymion • [GitHub](https://github.com/kubaBabylon)   
+Kuba Szymion • [GitHub](https://github.com/kubaBabylon) (remote)  
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 
 ---
 
-#### Consumer experience tribe
+#### Consumer experience tribe (South Kensington)
 
 ##### Core experience squad
 
 *Broad scope around improving the user experience in the app*
 
-Maxime Mazzone • [GitHub](https://github.com/mazzonem)  
+Maxime Mazzone • [GitHub](https://github.com/mazzonem) (remote)    
 Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
 
 ##### Native apps platform squad
@@ -118,8 +118,8 @@ Also includes big engineering work*
 
 Matthew Dolan • [GitHub](https://github.com/mattmook) • [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack)  
-Peter Slesarew • [GitHub](https://github.com/sliskiCode)  
-Sergei Chelombitko • [GitHub](https://github.com/technoir42)  
+Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote)  
+Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)  
 
 ##### SDK squad
 
@@ -129,7 +129,7 @@ Gabor Peto • [GitHub](https://github.com/GaborPeto)
 
 ---
 
-#### USA tribe
+#### USA tribe (Austin, TX)
 
 *Working on our US app*
 
@@ -139,7 +139,7 @@ Jayant Jere • [GitHub](https://github.com/j-android)
 
 ---
 
-#### Telus tribe
+#### Telus tribe (South Kensington)
 
 *Working on our Canada whitelabel application*
 
@@ -147,7 +147,7 @@ Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https
 
 ---
 
-#### NHS GP tribe
+#### NHS GP tribe (South Kensington)
 
 *Anything to do with the NHS GP flows, which allow someone to get our services
 for free, by making Babylon their NHS GP*
@@ -156,13 +156,13 @@ Pedro Loureiro • [GitHub](https://github.com/pedroql)
 
 ---
 
-#### Platform Foundation tribe
+#### Platform Foundation tribe (Liverpool Street)
 
 ##### Identity squad
 
 *Moving our app authentication into oAuth2*
 
-Leszek Mzyk • [GitHub](https://github.com/imbryk)
+Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)
 
 ##### Member comms squad
 
