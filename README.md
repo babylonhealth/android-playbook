@@ -84,7 +84,7 @@ Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
 ##### Referrals squad
 
-*Allows users to be referred to a physical GP or specialist
+*Allows users to be referred to a physical GP or specialist*
 
 Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
 
