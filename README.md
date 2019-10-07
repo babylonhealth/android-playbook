@@ -82,6 +82,12 @@ Claudia Luque Fernandez • [GitHub](https://github.com/claucookie)
 Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
 Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
+##### Referrals squad
+
+*Allows users to be referred to a physical GP or specialist
+
+Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
+
 ##### Consultation experience squad
 
 *Improving flows related to a consultation like the prescriptions, video
@@ -142,8 +148,6 @@ Jayant Jere • [GitHub](https://github.com/j-android)
 #### Telus tribe (South Kensington)
 
 *Working on our Canada whitelabel application*
-
-Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
 
 ---
 
