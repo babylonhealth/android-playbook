@@ -149,7 +149,7 @@ Jayant Jere • [GitHub](https://github.com/j-android)
 
 *Working on our Canada whitelabel application*
 
-David Tverdoa • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev) 
+David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev) 
 
 ---
 
