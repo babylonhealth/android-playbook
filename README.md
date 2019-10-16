@@ -149,6 +149,8 @@ Jayant Jere • [GitHub](https://github.com/j-android)
 
 *Working on our Canada whitelabel application*
 
+David Tverdoa • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev) 
+
 ---
 
 #### NHS GP tribe (South Kensington)
