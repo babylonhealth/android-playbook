@@ -150,7 +150,7 @@ Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)
 
 *Working on our Canada whitelabel application*
 
-David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev) 
+David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev)
 
 ---
 
@@ -191,7 +191,7 @@ over 20,000 tests and counting!
 
 We embrace open source and are committed to releasing what we can to benefit the
 community. For example, we recently launched
-[certificate-transparency-android](https://github.com/Babylonpartners/certificate-transparency-android/)
+[certificate-transparency-android](https://github.com/babylonhealth/certificate-transparency-android/)
 to help everyone better secure SSL connections.
 
 As a team, we love to learn and often participate in Lunch and Learn sessions
