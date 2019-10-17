@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 34 of us in the Android guild. As an Android Engineer,
+There are currently 35 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -177,6 +177,12 @@ Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)
 marketing messaging, app inbox*
 
 Joao Alves (as contributor) • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
+
+##### Tenancy squad
+
+*Managing anything related with the new Tenancy project and Consumer Networks migration*
+
+Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)
 
 ---
 
