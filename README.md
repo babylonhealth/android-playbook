@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 33 of us in the Android guild. As an Android Engineer,
+There are currently 34 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -149,6 +149,8 @@ Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)
 #### Telus tribe (South Kensington)
 
 *Working on our Canada whitelabel application*
+
+David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev) 
 
 ---
 
