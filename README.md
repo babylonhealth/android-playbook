@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 35 of us in the Android guild. As an Android Engineer,
+There are currently 36 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -159,7 +159,8 @@ David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https:/
 *Anything to do with the NHS GP flows, which allow someone to get our services
 for free, by making Babylon their NHS GP*
 
-Pedro Loureiro • [GitHub](https://github.com/pedroql)
+Pedro Loureiro • [GitHub](https://github.com/pedroql)  
+Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
 
 ---
 
