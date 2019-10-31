@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 36 of us in the Android guild. As an Android Engineer,
+There are currently 37 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -61,6 +61,7 @@ Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://t
 
 Luis Muñoz • [GitHub](https://github.com/luismunyoz) (remote)  
 Enrique Ramirez • [GitHub](https://github.com/kikermo)  
+Manolis Spanoudakis • [GitHub](https://github.com/cyfer) • [Twitter](https://twitter.com/manolosigma)  
 
 ---
 
