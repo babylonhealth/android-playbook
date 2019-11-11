@@ -59,8 +59,7 @@ Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://t
 
 *Work on our digital avatar*
 
-Luis Muñoz • [GitHub](https://github.com/luismunyoz) (remote)  
-Enrique Ramirez • [GitHub](https://github.com/kikermo)  
+Luis Muñoz • [GitHub](https://github.com/luismunyoz) (remote)   
 Manolis Spanoudakis • [GitHub](https://github.com/cyfer) • [Twitter](https://twitter.com/manolosigma)  
 
 ---
