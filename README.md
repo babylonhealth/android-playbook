@@ -26,25 +26,27 @@ different squads if the workload justifies it.
 
 ### Android guild
 
-*Android Lead*  
-Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http://www.sakiskaliakoudas.com)
+*Android Leads*  
+Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http://www.sakiskaliakoudas.com)  
+Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)  
+Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
+Rui Teixeira  • [GitHub](https://github.com/takecare)  
+Andrii Rakhimov  • [GitHub](https://github.com/ar-g)  
 
 ---
 
 #### Health management tribe (Liverpool Street)
 
 *Android Chapter Lead*  
-Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
+Rui Teixeira  • [GitHub](https://github.com/takecare) 
 
 ##### Monitor squad
 
 *Wearables syncing and dashboard for wearable data and blood test data*
-
-Eduardo dos Santos • [GitHub](https://github.com/ejms)  
+  
 Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
 Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)   
 Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
-Rui Teixeira  • [GitHub](https://github.com/takecare)    
 Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://twitter.com/fmendes6) • [fmendes6.com](http://fmendes6.com)
 
 ##### Test kits squad
@@ -73,14 +75,14 @@ Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)
 
 *Provide prescriptions functionality*
 
-Claudia Luque Fernandez • [GitHub](https://github.com/claucookie)
+Claudia Luque Fernandez • [GitHub](https://github.com/claucookie)  
+Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
-##### Bookings squad
+##### Appointments squad
 
-*Allow the users to book face to face appointments*
+*Everything related with Babylon appointments*
 
 Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
-Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
 ##### Referrals squad
 
@@ -96,19 +98,29 @@ calling etc.*
 Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
 Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)  
 
+##### Partnerships squad
+
+*Working on our partners applications*
+
+David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev)
+
 ---
 
 #### Triage tribe (South Kensington)
+
+##### Triage experience squad
 
 *Anything to do with our chatbot*
 
 Willow Miles • [GitHub](https://github.com/JEKMiles)   
 Kuba Szymion • [GitHub](https://github.com/kubaBabylon) (remote)  
-Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 
 ---
 
 #### Consumer experience tribe (South Kensington)
+
+*Android Chapter Lead*  
+Andrii Rakhimov • [GitHub](https://github.com/ar-g)
 
 ##### Core experience squad
 
@@ -142,15 +154,8 @@ Gabor Peto • [GitHub](https://github.com/GaborPeto)
 Antonio Johnson • [GitHub](https://github.com/aj-65)  
 Sean Gallagher • [GitHub](https://github.com/seangallagherbabylon)  
 Jayant Jere • [GitHub](https://github.com/j-android)
-Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)
-
----
-
-#### Telus tribe (South Kensington)
-
-*Working on our Canada whitelabel application*
-
-David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev)
+Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)  
+Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 
 ---
 
@@ -159,18 +164,18 @@ David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https:/
 *Anything to do with the NHS GP flows, which allow someone to get our services
 for free, by making Babylon their NHS GP*
 
-Pedro Loureiro • [GitHub](https://github.com/pedroql)  
 Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
 
 ---
 
-#### Platform Foundation tribe (Liverpool Street)
+#### Core Alliance tribe (Liverpool Street)
 
 ##### Identity squad
 
 *Moving our app authentication into oAuth2*
 
-Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)
+Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)  
+Pedro Loureiro • [GitHub](https://github.com/pedroql)  
 
 ##### Member comms squad
 
@@ -179,7 +184,7 @@ marketing messaging, app inbox*
 
 Joao Alves (as contributor) • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
 
-##### Tenancy squad
+##### Tenancy & features squad
 
 *Managing anything related with the new Tenancy project and Consumer Networks migration*
 
