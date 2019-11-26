@@ -119,6 +119,9 @@ Kuba Szymion • [GitHub](https://github.com/kubaBabylon) (remote)
 
 #### Consumer experience tribe (South Kensington)
 
+*Android Chapter Lead*  
+Andrii Rakhimov • [GitHub](https://github.com/ar-g)
+
 ##### Core experience squad
 
 *Broad scope around improving the user experience in the app*
