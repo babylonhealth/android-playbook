@@ -153,7 +153,7 @@ Gabor Peto • [GitHub](https://github.com/GaborPeto)
 
 Antonio Johnson • [GitHub](https://github.com/aj-65)  
 Sean Gallagher • [GitHub](https://github.com/seangallagherbabylon)  
-Jayant Jere • [GitHub](https://github.com/j-android)
+Jayant Jere • [GitHub](https://github.com/j-android)  
 Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)  
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 
