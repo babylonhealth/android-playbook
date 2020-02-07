@@ -98,9 +98,11 @@ calling etc.*
 Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
 Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)  
 
-##### Partnerships squad
+##### Digital first primary care squad
 
-*Working on our partners applications*
+*Working on our and our partners applications (Babylon GP at Hand, Babylon by TelusHealth)*
+
+Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
 
 David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev)
 
@@ -156,15 +158,6 @@ Sean Gallagher • [GitHub](https://github.com/seangallagherbabylon)
 Jayant Jere • [GitHub](https://github.com/j-android)  
 Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)  
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
-
----
-
-#### NHS GP tribe (South Kensington)
-
-*Anything to do with the NHS GP flows, which allow someone to get our services
-for free, by making Babylon their NHS GP*
-
-Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
 
 ---
 
