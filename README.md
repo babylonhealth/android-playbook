@@ -175,7 +175,6 @@ Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
 *Moving our app authentication into oAuth2*
 
 Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)  
-Pedro Loureiro • [GitHub](https://github.com/pedroql)  
 
 ##### Member comms squad
 
