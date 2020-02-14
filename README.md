@@ -100,7 +100,7 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)
 
 ##### Digital first primary care squad
 
-*Working on our and our partners applications (Babylon GP at Hand, Babylon by TelusHealth)*
+*Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
 
 Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
 David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev)
