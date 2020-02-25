@@ -48,11 +48,6 @@ Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://me
 Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
 Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://twitter.com/fmendes6) • [fmendes6.com](http://fmendes6.com)
 
-##### Test kits squad
-
-*Managing everything related to Babylon do-at-home tests (blood, urine, etc...)*
-
-Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://twitter.com/ablenessy) • [Medium](https://medium.com/@attilablnesi)
 
 ---
 
@@ -70,29 +65,9 @@ Manolis Spanoudakis • [GitHub](https://github.com/cyfer) • [Twitter](https:/
 *Android Chapter Lead*  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)
 
-##### Prescriptions squad
-
-*Provide prescriptions functionality*
-
-Claudia Luque Fernandez • [GitHub](https://github.com/claucookie)  
 Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
 
-##### Appointments squad
-
-*Everything related with Babylon appointments*
-
 Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
-
-##### Referrals squad
-
-*Allows users to be referred to a physical GP or specialist*
-
-Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
-
-##### Consultation experience squad
-
-*Improving flows related to a consultation like the prescriptions, video
-calling etc.*
 
 Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
 Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)  
@@ -136,7 +111,6 @@ Also includes big engineering work*
 
 Matthew Dolan • [GitHub](https://github.com/mattmook) • [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack)  
-Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote)  
 Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)  
 
 ##### SDK squad
@@ -144,6 +118,8 @@ Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)
 *Anything to do with our SDKs*
 
 Gabor Peto • [GitHub](https://github.com/GaborPeto)
+Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
+Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://twitter.com/ablenessy) • [Medium](https://medium.com/@attilablnesi)
 
 ---
 
@@ -154,6 +130,7 @@ Gabor Peto • [GitHub](https://github.com/GaborPeto)
 Antonio Johnson • [GitHub](https://github.com/aj-65)  
 Lauren Yew • [GitHub](https://github.com/laurenyew-babylon)  
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
+Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote)
 
 ---
 
