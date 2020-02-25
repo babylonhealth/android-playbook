@@ -64,6 +64,7 @@ Manolis Spanoudakis • [GitHub](https://github.com/cyfer) • [Twitter](https:/
 
 *Android Chapter Lead*  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
+
 Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)  
 Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
 Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
@@ -74,8 +75,7 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)
 *Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
 
 Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)   
-David 
-Tverdota • [GitHub](https://github.com/The-Shader) •
+David Tverdota • [GitHub](https://github.com/The-Shader) •
 [Twitter](https://twitter.com/Spartan_Dev)
 
 ---
@@ -108,11 +108,10 @@ Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
 *Doing work on the whole app, and anything that doesn’t sit in other squads.
 Also includes big engineering work*
 
-Matthew Dolan • [GitHub](https://github.com/mattmook) •
+Matthew Dolan • [GitHub](https://github.com/mattmook) • 
 [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)   
- Sergei
-Chelombitko • [GitHub](https://github.com/technoir42) (remote)
+Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)
 
 ##### SDK squad
 
