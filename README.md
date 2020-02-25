@@ -28,7 +28,6 @@ different squads if the workload justifies it.
 
 *Android Leads*  
 Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http://www.sakiskaliakoudas.com)  
-Joao Alves • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
 Rui Teixeira  • [GitHub](https://github.com/takecare)  
 Andrii Rakhimov  • [GitHub](https://github.com/ar-g)  
@@ -165,13 +164,6 @@ Tomas Navickas • [GitHub](https://github.com/iTomkinas)
 *Moving our app authentication into oAuth2*
 
 Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)  
-
-##### Member comms squad
-
-*Anything related with member communications, e.g. push notification,
-marketing messaging, app inbox*
-
-Joao Alves (as contributor) • [GitHub](https://github.com/jcmsalves) • [Twitter](https://twitter.com/jcmsalves) • [Medium](https://medium.com/@jcmsalves)
 
 ##### Tenancy & features squad
 
