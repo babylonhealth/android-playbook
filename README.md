@@ -63,12 +63,9 @@ Manolis Spanoudakis • [GitHub](https://github.com/cyfer) • [Twitter](https:/
 #### Clinical care experience tribe (South Kensington)
 
 *Android Chapter Lead*  
-Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)
-
-Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)
-
+Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
+Manuel Rebollo Baez • [GitHub](https://github.com/mrebollob)  
 Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
-
 Antonis Tsipaliokas • [GitHub](https://github.com/kokeroulis)  
 Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)  
 
@@ -76,8 +73,10 @@ Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)
 
 *Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
 
-Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)
-David Tverdota • [GitHub](https://github.com/The-Shader) • [Twitter](https://twitter.com/Spartan_Dev)
+Vasanthakumar Annadurai • [GitHub](https://github.com/apvasanth03)   
+David 
+Tverdota • [GitHub](https://github.com/The-Shader) •
+[Twitter](https://twitter.com/Spartan_Dev)
 
 ---
 
@@ -109,16 +108,21 @@ Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
 *Doing work on the whole app, and anything that doesn’t sit in other squads.
 Also includes big engineering work*
 
-Matthew Dolan • [GitHub](https://github.com/mattmook) • [Medium](https://medium.com/@appmattus)  
-Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack)  
-Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)  
+Matthew Dolan • [GitHub](https://github.com/mattmook) •
+[Medium](https://medium.com/@appmattus)  
+Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)   
+ Sergei
+Chelombitko • [GitHub](https://github.com/technoir42) (remote)
 
 ##### SDK squad
 
 *Anything to do with our SDKs*
 
-Gabor Peto • [GitHub](https://github.com/GaborPeto)
-Mark Allison • [GitHub](https://github.com/StylingAndroid) • [Twitter](https://twitter.com/MarkIAllison) • [stylingandroid.com](https://blog.stylingandroid.com) • [ConstraintLayout.com](https://constraintlayout.com/)
+Gabor Peto • [GitHub](https://github.com/GaborPeto)   
+Mark Allison • [GitHub](https://github.com/StylingAndroid) •
+[Twitter](https://twitter.com/MarkIAllison) •
+[stylingandroid.com](https://blog.stylingandroid.com) •
+[ConstraintLayout.com](https://constraintlayout.com/)   
 Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://twitter.com/ablenessy) • [Medium](https://medium.com/@attilablnesi)
 
 ---
