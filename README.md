@@ -37,12 +37,12 @@ Andrii Rakhimov  • [GitHub](https://github.com/ar-g)
 #### Health management tribe (Liverpool Street)
 
 *Android Chapter Lead*  
-Rui Teixeira  • [GitHub](https://github.com/takecare) 
+Rui Teixeira  • [GitHub](https://github.com/takecare)
 
 ##### Monitor squad
 
 *Wearables syncing and dashboard for wearable data and blood test data*
-  
+
 Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
 Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)   
 Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
@@ -108,7 +108,7 @@ Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
 *Doing work on the whole app, and anything that doesn’t sit in other squads.
 Also includes big engineering work*
 
-Matthew Dolan • [GitHub](https://github.com/mattmook) • 
+Matthew Dolan • [GitHub](https://github.com/mattmook) •
 [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)   
 Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)
@@ -121,8 +121,7 @@ Gabor Peto • [GitHub](https://github.com/GaborPeto)
 Mark Allison • [GitHub](https://github.com/StylingAndroid) •
 [Twitter](https://twitter.com/MarkIAllison) •
 [stylingandroid.com](https://blog.stylingandroid.com) •
-[ConstraintLayout.com](https://constraintlayout.com/)   
-Attila Blenesi • [GitHub](https://github.com/ablenesi) • [Twitter](https://twitter.com/ablenessy) • [Medium](https://medium.com/@attilablnesi)
+[ConstraintLayout.com](https://constraintlayout.com/) 
 
 ---
 
