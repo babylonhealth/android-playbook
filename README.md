@@ -137,12 +137,6 @@ Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote)
 
 #### Core Alliance tribe (Liverpool Street)
 
-##### Identity squad
-
-*Moving our app authentication into oAuth2*
-
-Leszek Mzyk • [GitHub](https://github.com/imbryk) (remote)  
-
 ##### Tenancy & features squad
 
 *Managing anything related with the new Tenancy project and Consumer Networks migration*
