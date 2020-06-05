@@ -129,7 +129,6 @@ Mark Allison • [GitHub](https://github.com/StylingAndroid) •
 
 *Working on our US app*
 
-Antonio Johnson • [GitHub](https://github.com/aj-65)  
 Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
 Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote)
 
