@@ -56,7 +56,6 @@ Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://tw
 *Work on our digital avatar*
 
 Luis Muñoz • [GitHub](https://github.com/luismunyoz) (remote)   
-Manolis Spanoudakis • [GitHub](https://github.com/cyfer) • [Twitter](https://twitter.com/manolosigma)  
 
 ---
 
