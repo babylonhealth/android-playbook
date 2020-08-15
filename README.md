@@ -118,10 +118,6 @@ Sergei Chelombitko • [GitHub](https://github.com/technoir42) (remote)
 *Anything to do with our SDKs*
 
 Gabor Peto • [GitHub](https://github.com/GaborPeto)   
-Mark Allison • [GitHub](https://github.com/StylingAndroid) •
-[Twitter](https://twitter.com/MarkIAllison) •
-[stylingandroid.com](https://blog.stylingandroid.com) •
-[ConstraintLayout.com](https://constraintlayout.com/) 
 
 ---
 
