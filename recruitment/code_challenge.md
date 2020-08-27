@@ -31,7 +31,7 @@ You can fetch all the required data from the following API endpoints:
 - Use of 3rd party libraries (and dependency management) is accepted
   and encouraged
 - We consider tests to be as important as functional code. So we 
-  expect you to show that you know how to unit test your code. This need not be full coverage given,
+  expect you to show that you know how to unit test your code. This need not be full coverage given
   the time constraint, one or two tests demonstrating your abilities will suffice!
 - The tech test needs to compile so that we can build it ourselves.
 
