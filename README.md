@@ -27,24 +27,18 @@ different squads if the workload justifies it.
 ### Android guild
 
 *Android Leads*  
-Sakis Kaliakoudas • [GitHub](https://github.com/athkalia) • [Website](http://www.sakiskaliakoudas.com)  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
-Rui Teixeira  • [GitHub](https://github.com/takecare)  
 Andrii Rakhimov  • [GitHub](https://github.com/ar-g)  
 
 ---
 
 #### Health management tribe (Liverpool Street)
 
-*Android Chapter Lead*  
-Rui Teixeira  • [GitHub](https://github.com/takecare)
-
 ##### Monitor squad
 
 *Wearables syncing and dashboard for wearable data and blood test data*
 
 Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
-Luca Nicoletti • [GitHub](https://github.com/lnicolet) • [Medium](https://medium.com/@luca.nicolett) • [Twitter](https://twitter.com/luca_nicolett)   
 Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
 Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://twitter.com/fmendes6) • [fmendes6.com](http://fmendes6.com)
 
