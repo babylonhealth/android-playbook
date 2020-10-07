@@ -37,8 +37,7 @@ Andrii Rakhimov  • [GitHub](https://github.com/ar-g)
 ##### Monitor squad
 
 *Wearables syncing and dashboard for wearable data and blood test data*
-
-Bogdan-Andrei Fotescu • [GitHub](https://github.com/rakatan)  
+ 
 Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
 Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://twitter.com/fmendes6) • [fmendes6.com](http://fmendes6.com)
 
