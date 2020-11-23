@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 32 of us in the Android guild. As an Android Engineer,
+There are currently 15 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -29,10 +29,11 @@ different squads if the workload justifies it.
 *Android Leads*  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
 Andrii Rakhimov  • [GitHub](https://github.com/ar-g)  
+Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
 
 ---
 
-#### Health management tribe (Liverpool Street)
+#### Health management tribe
 
 ##### Monitor squad
 
@@ -41,33 +42,41 @@ Andrii Rakhimov  • [GitHub](https://github.com/ar-g)
 Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
 Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://twitter.com/fmendes6) • [fmendes6.com](http://fmendes6.com)
 
-
 ---
 
-#### Healthcheck tribe (Liverpool Street)
+#### Healthcheck tribe
 
 *Work on our digital avatar*
 
 ---
 
-#### Clinical care experience tribe (South Kensington)
+#### Clinical care experience tribe
 
 *Android Chapter Lead*  
 Agnieszka Pinchinat-Miernik • [GitHub](https://github.com/alpm)  
 
+##### Payments and Eligibility squad
+
+Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
+
+##### Multimedia squad
+
+*Audio and video calls*
+
+Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote) 
+
+##### Global Aftercare and Actions squad
+
+*Android Chapter Lead*  
 Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)  
-Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)  
 
-##### Digital first primary care squad
+##### Appointments squad
 
-*Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
-
-David Tverdota • [GitHub](https://github.com/The-Shader) •
-[Twitter](https://twitter.com/Spartan_Dev)
+Daniel Sobczak • [GitHub](https://github.com/DanielSobczak) (remote)    
 
 ---
 
-#### Triage tribe (South Kensington)
+#### Triage tribe
 
 ##### Triage experience squad
 
@@ -77,7 +86,7 @@ Willow Miles • [GitHub](https://github.com/JEKMiles)
 
 ---
 
-#### Consumer experience tribe (South Kensington)
+#### Consumer experience tribe
 
 *Android Chapter Lead*  
 Andrii Rakhimov • [GitHub](https://github.com/ar-g)
@@ -88,6 +97,10 @@ Andrii Rakhimov • [GitHub](https://github.com/ar-g)
 
 Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
 
+---
+
+#### Platform Development tribe
+
 ##### Native apps platform squad
 
 *Doing work on the whole app, and anything that doesn’t sit in other squads.
@@ -97,29 +110,28 @@ Matthew Dolan • [GitHub](https://github.com/mattmook) •
 [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)
 
----
+##### Maple squad
 
-#### USA tribe (Austin, TX)
+*Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
 
-*Working on our US app*
-
-Tomas Navickas • [GitHub](https://github.com/iTomkinas)   
-Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote)
-
----
-
-#### Core Alliance tribe (Liverpool Street)
-
-##### Tenancy & features squad
-
-*Managing anything related with the new Tenancy project and Consumer Networks migration*
-
-Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)
+Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)    
+David Tverdota • [GitHub](https://github.com/The-Shader) •
+[Twitter](https://twitter.com/Spartan_Dev)
 
 ---
 
-We work across 3 offices, South Kensington (HQ), Liverpool Street, and
-Austin TX USA as well as many remote engineers. Your tribe/squad determines your
+#### Platform Foundation tribe
+
+##### Mercury squad
+
+*Working on Stripe and Braintree payments*
+
+Kamil Gurgul • [GitHub](https://github.com/kamgurgul) 
+
+---
+
+We work across multiple offices, South Kensington (HQ), and Austin TX USA 
+as well as many remote engineers. Your tribe/squad determines your
 office location. We have open positions across our offices, links at the end.
 
 We're passionate about our codebase and are always looking for innovative ways
