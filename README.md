@@ -114,7 +114,7 @@ Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)
 
 *Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
 
-Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)
+Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)    
 David Tverdota • [GitHub](https://github.com/The-Shader) •
 [Twitter](https://twitter.com/Spartan_Dev)
 
@@ -124,7 +124,7 @@ David Tverdota • [GitHub](https://github.com/The-Shader) •
 
 ##### Mercury squad
 
-**
+*Working on Stripe and Braintree payments*
 
 Kamil Gurgul • [GitHub](https://github.com/kamgurgul) 
 
