@@ -14,7 +14,7 @@ often!
 
 ## Who are we and what are we working on?
 
-There are currently 15 of us in the Android guild. As an Android Engineer,
+There are currently 16 of us in the Android guild. As an Android Engineer,
 you'll be joining a smaller, cross-functional squad made up of Android, iOS,
 web and backend engineers. You'll get the chance to collaborate with designers,
 product managers and healthcare professionals, tackling complex, exciting
@@ -39,7 +39,6 @@ Francesco Pontillo • [GitHub](https://github.com/frapontillo) (remote)
 
 *Wearables syncing and dashboard for wearable data and blood test data*
  
-Kioba Somodi • [GitHub](https://github.com/kioba) • [Twitter](https://twitter.com/kiobaa) • [kioba.dev](https://kioba.dev)    
 Filipe Mendes • [GitHub](https://github.com/fmendes6) • [Twitter](https://twitter.com/fmendes6) • [fmendes6.com](http://fmendes6.com)
 
 ---
@@ -109,6 +108,7 @@ Also includes big engineering work*
 Matthew Dolan • [GitHub](https://github.com/mattmook) •
 [Medium](https://medium.com/@appmattus)  
 Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)
+Gabor Peto • [GitHub](https://github.com/GaborPeto)
 
 ##### Maple squad
 
