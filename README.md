@@ -92,8 +92,6 @@ Andrii Rakhimov • [GitHub](https://github.com/ar-g)
 
 *Broad scope around improving the user experience in the app*
 
-Aldrich Mascarenhas • [GitHub](https://github.com/AldrichMascarenhas)
-
 ---
 
 #### Platform Development tribe
@@ -105,16 +103,13 @@ Also includes big engineering work*
 
 Matthew Dolan • [GitHub](https://github.com/mattmook) •
 [Medium](https://medium.com/@appmattus)  
-Mikolaj Leszczynski • [GitHub](https://github.com/Rosomack) (remote)
 Gabor Peto • [GitHub](https://github.com/GaborPeto)
 
 ##### Maple squad
 
 *Working on our own and our partners' applications (Babylon GP at Hand, Babylon by TelusHealth)*
 
-Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)    
-David Tverdota • [GitHub](https://github.com/The-Shader) •
-[Twitter](https://twitter.com/Spartan_Dev)
+Darren Atherton • [GitHub](https://github.com/DarrenAtherton49) (remote)
 
 ---
 
