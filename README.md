@@ -62,8 +62,6 @@ Tomas Navickas • [GitHub](https://github.com/iTomkinas)
 
 *Audio and video calls*
 
-Peter Slesarew • [GitHub](https://github.com/sliskiCode) (remote) 
-
 ##### Global Aftercare and Actions squad
 
 *Android Chapter Lead*  
