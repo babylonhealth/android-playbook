@@ -101,8 +101,6 @@ Andrii Rakhimov • [GitHub](https://github.com/ar-g)
 *Doing work on the whole app, and anything that doesn’t sit in other squads.
 Also includes big engineering work*
 
-Matthew Dolan • [GitHub](https://github.com/mattmook) •
-[Medium](https://medium.com/@appmattus)  
 Gabor Peto • [GitHub](https://github.com/GaborPeto)
 
 ##### Maple squad
